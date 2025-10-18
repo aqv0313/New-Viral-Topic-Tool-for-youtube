@@ -16,9 +16,9 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-"5 Best Skincare Products for Beginners Dermatologist Recommended", "10-Minute Morning Workout to Burn Fat Fast No Equipment, "Night Skincare Routine for Glowing Skin Step by Step Guide",
+"5 Best Skincare Products for Beginners Dermatologist Recommended", "10 Minute Morning Workout to Burn Fat Fast No Equipment, "Night Skincare Routine for Glowing Skin Step by Step Guide",
 "Quick 7-Day Workout Challenge to Lose Belly Fat", 
-"Top 3 Skincare Mistakes That Ruin Your Skin", "15-Minute Full Body Workout at Home Fat Burning + Toning", "Best Anti-Aging Skincare Products That Actually Work", 
+"Top 3 Skincare Mistakes That Ruin Your Skin", "15 Minute Full Body Workout at Home Fat Burning Toning", "Best Anti Aging Skincare Products That Actually Work", 
 "Lose Weight at Home Without Dieting Easy Routine", "Top 5 Amazon Skincare Tools You Need in 2025", "Best Protein & Supplements for Beginners Fitness Guide 2025"
 ]
 
