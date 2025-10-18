@@ -16,8 +16,8 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-    "artificial intelligence", "data science vs artificial intelligence", "data scientist salary in india", "will ai take over data science", "certified ai practitioner data science certification", "data science or ai ml which is better",  
-"artificial intelligence applications", "what is ai"
+    "online money", "data science", "artificial intelligence", "online work", "beautyful countries", "cricket match", "best story",  
+"facebook ads", "pakistan and afghanistan war"
 ]
 
 # Fetch Data Button
